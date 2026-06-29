@@ -5,7 +5,7 @@
     android:background="@drawable/fondo"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.app.victor.game1jvbc.main">
+    tools:context="com.game.gerardo.main">
 
     <RelativeLayout
         android:layout_width="match_parent"

@@ -1,4 +1,4 @@
-package com.app.victor.game1jvbc;
+package com.game.gerardo;
 
 import android.app.AlertDialog;
 import android.content.Context;
